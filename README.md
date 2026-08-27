@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Oracio Rosas 👋
 
-<!--
-**orosas82/orosas82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data, Analytics & AI Leader
 
-Here are some ideas to get you started:
+I build data systems that connect ecommerce, customer, marketing,
+pricing, and financial data to business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines analytics leadership, data engineering,
+data science, ecommerce analytics, and AI-driven decision systems.
+
+## What I Work On
+
+- Data & Analytics Strategy
+- Data Engineering & Analytics Engineering
+- Ecommerce Analytics
+- Marketing Measurement & Attribution
+- Customer Retention & Lifetime Value
+- Pricing & Elasticity Analytics
+- Executive Reporting & Decision Intelligence
+- AI-Powered Analytics
+
+## Technology
+
+**Data & Engineering**
+
+Python • SQL • Snowflake • BigQuery • Google Cloud • APIs • ETL/ELT
+
+**Analytics**
+
+GA4 • Power BI • Qlik • Statistical Modeling • Forecasting
+
+**AI**
+
+LLMs • AI Analytics Agents • Natural Language to SQL • Analytics Automation
+
+---
+
+## Featured Projects
+
+### 🛒 Ecommerce Analytics Platform
+
+End-to-end ecommerce analytics architecture combining orders,
+customers, products, marketing, website behavior, and financial data
+into a unified analytics environment.
+
+**Status:** In development
+
+---
+
+### 📊 GA4 Revenue Reconciliation
+
+A data-quality framework for identifying missing transactions,
+duplicate purchases, tracking discrepancies, and revenue differences
+between GA4 and ecommerce platforms.
+
+**Status:** In development
+
+---
+
+### 📈 Price Elasticity Engine
+
+A pricing analytics framework using log-log regression to estimate
+product-level price elasticity, confidence intervals, and pricing
+opportunities.
+
+**Status:** In development
+
+---
+
+### 🤖 AI Analytics Agent
+
+An AI-powered analytics system that converts business questions into
+data queries and produces executive-level explanations of business
+performance.
+
+**Status:** Planned
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/oraciorosas/)
